@@ -4,6 +4,7 @@
   <b>Kaggle Course</b><br>
   <a href="https://www.kaggle.com/learn/intro-to-programming">Intro to Programming</a>
   <br>
+  <br>
   <b>Preparation for</b><br>
   Python
   <br>
