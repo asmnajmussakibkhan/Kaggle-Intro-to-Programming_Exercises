@@ -3,19 +3,13 @@
 <p>
 <b>Preparation for</b><br>
 Python
-</p><br>
-
-<p>
+<br>
 <b>Hours to earn certificate</b>b><br>
 5 (estimated)
-</p><br>
-
-<p>
+<br>
 <b>Cost</b><br>
 No cost, like all Kaggle Learn Courses
-</p><br>
-
-<p>
+<br>
 <b>Instructor</b><br>
 Alexis Cook
 </p>
