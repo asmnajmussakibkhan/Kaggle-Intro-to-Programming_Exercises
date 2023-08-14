@@ -14,5 +14,5 @@ No cost, like all Kaggle Learn Courses
 <br>
 <br>
 <b>Instructor</b><br>
-Alexis Cook
+[Alexis Cook](https://www.kaggle.com/alexisbcook)
 </p>
