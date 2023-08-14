@@ -4,7 +4,7 @@
 <b>Preparation for</b><br>
 Python
 <br>
-<b>Hours to earn certificate</b>b><br>
+<b>Hours to earn certificate</b><br>
 5 (estimated)
 <br>
 <b>Cost</b><br>
