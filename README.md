@@ -26,7 +26,7 @@
   <br>
 </p>
 
-## Features
+## Course Exercises
 
 - Exercise 1: Arithmetic and Variables; Make calculations, and define and modify variables.
 - Exercise 2: Functions; Organize your code and avoid redundancy.
